@@ -16,7 +16,9 @@ source setup_env.sh
 cd modelsim
 ```
 ## Lab 2: AI Generated Hardware
-COMING SOON
+```csh
+cd nex
+```
 
 ## Labs 3: CMOS Inverter - Schematic and Circuit Simulation
   ```csh
