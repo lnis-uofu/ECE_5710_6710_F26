@@ -8,33 +8,32 @@ git clone https://github.com/lnis-uofu/ECE_5710_6710_F26.git
 cd 5710_6710_F26
 ```
 ### Setup the environment variables in a `csh`/`tcsh` shell
-```csh
+```sh
 source setup_env.sh
 ```
 ## Lab 1: Verification with Modelsim
-```csh
+```sh
 cd modelsim
 ```
 ## Lab 2: AI Generated Hardware
-```csh
+```sh
 cd nex
 ```
-
 ## Labs 3: CMOS Inverter - Schematic and Circuit Simulation
-  ```csh
+```sh
 cd virtuoso
 ```
 ## Lab 4: CMOS Inverter - Physical Design
-  ```csh
+```sh
 cd virtuoso
 ```
 ## Lab 5: Introduction to Logic Synthesis
-  ```csh
+```sh
 cd genus
 ```
 ## Lab 6: Physical Design of a System on Chip with RISC-V Core
-  Floorplanning and P&R of [picosoc](https://github.com/YosysHQ/picorv32/tree/master)
-  ```csh
+Floorplanning and P&R of [picosoc](https://github.com/YosysHQ/picorv32/tree/master)
+```sh
 cd innovus
 ```
 
