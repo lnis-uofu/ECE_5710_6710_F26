@@ -18,6 +18,7 @@ cd modelsim
 ## Lab 2: AI Generated Hardware
 ```sh
 cd nex
+./launch_nex
 ```
 ## Labs 3: CMOS Inverter - Schematic and Circuit Simulation
 ```sh
